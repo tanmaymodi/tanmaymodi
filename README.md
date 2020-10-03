@@ -13,7 +13,7 @@
 <a href="https://www.codechef.com/users/i_m_slim_shady" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="i_m_slim_shady" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/tanmaymodi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="tanmaymodi" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/21eventhorizon/todo-done/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/21eventhorizon/todo-done/" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/tanmymodi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="tanmymodi" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
