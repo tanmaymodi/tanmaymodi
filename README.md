@@ -1,5 +1,5 @@
 <h1 align="center">Hello, World!! 👋, I'm Tanmay Modi</h1>
-<h3 align="center">Full-Stack Developer | Game-Developer | Drummer</h3>
+<h3 align="center">Full-Stack Developer | Game-Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmaymodi" alt="tanmaymodi" /> </p>
 
